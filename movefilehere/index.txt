@@ -1,1 +1,34 @@
 new file with same index.txt name created in movefilehere.
+
+This will be deleted.......
+
+i am making changes 
+user-mod.
+
+Merge conflict resolved.
+
+do not rename this file i am making changes.
+main.
+
+line1
+
+line2
+
+line3
+
+line4
+
+line5
+
+line6
+
+line7
+
+line8
+
+line9
+
+line10
+
+author: main.
+modified and added 10 lines to create rename-modify conflict.
