@@ -7,3 +7,26 @@ Merge conflict resolved.
 
 do not rename this file i am making changes.
 main.
+
+line1
+
+line2
+
+line3
+
+line4
+
+line5
+
+line6
+
+line7
+
+line8
+
+line9
+
+line10
+
+author: main.
+modified and added 10 lines to create rename-modify conflict.
